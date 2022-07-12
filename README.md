@@ -1,11 +1,5 @@
 
 ### Olá! Eu sou Ester Alice ✋
-
-<div align="center">
-  <a href="https://github.com/EsterAlice">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterAlice&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white.org.svg)](https://www.instagram.com/esteralice6/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit)](https://www.facebook.com/aliceinesquecivel/)
