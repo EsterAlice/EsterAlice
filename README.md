@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**EsterAlice/EsterAlice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Ester Alice ✋
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white.org.svg)](https://www.instagram.com/esteralice6/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit)](https://www.facebook.com/aliceinesquecivel/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ester-alice-3320611b6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ester GitHub stats](https://github-readme-stats.vercel.app/api?username=EsterAlice&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsterAlice&layout=compact)](https://github.com/EsterAlice/github-readme-stats)
+
+### Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div><br>
+
+Aprendendo programação e descubrindo um novo mundo!!
+Técnico de Desenvolvimento de sistemas no Senai - 3º Semestre!!
